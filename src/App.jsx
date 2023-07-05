@@ -1,5 +1,5 @@
-import MuiGrid from "./components/MUI/MuiGrid";
+import Counter from "./components/Counter/Counter";
 
 export default function App() {
-    return <MuiGrid />;
+    return <Counter />;
 }
